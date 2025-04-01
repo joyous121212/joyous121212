@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Studying
+<img src="https://img.shields.io/badge/spark%20ar-%23FF5C83.svg?&style=for-the-badge&logo=spark%20ar&logoColor=white" />
+
 <!--
 **joyous121212/joyous121212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
